@@ -1,0 +1,6 @@
+hello
+this is a new file created by using gitBash
+to create this,we use the command called
+nano new_file
+we open this new_file in vscode using
+code .
